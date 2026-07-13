@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GUNTANK1", "GUNTANK1\GUNTANK1.pyproj", "{784F340E-37E4-43B1-A707-E3E233EDF1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784F340E-37E4-43B1-A707-E3E233EDF1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F340E-37E4-43B1-A707-E3E233EDF1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7295AD6-2FB8-4FF7-A5E7-6E8F0F489726}
+	EndGlobalSection
+EndGlobal
